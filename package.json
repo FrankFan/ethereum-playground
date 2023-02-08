@@ -19,6 +19,7 @@
   "homepage": "https://github.com/FrankFan/ethereum-playground#readme",
   "dependencies": {
     "crypto": "^1.0.1",
+    "ethers": "5.4",
     "keccak": "^3.0.3",
     "secp256k1": "^5.0.0"
   }
